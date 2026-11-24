@@ -1,0 +1,8 @@
+*.exe
+*.msi
+*.msix
+*.msixbundle
+*.zip
+*.rar
+.DS_Store
+Thumbs.db
